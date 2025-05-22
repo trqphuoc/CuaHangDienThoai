@@ -282,3 +282,4 @@ D:\Csharp\Csharp_LT\CuaHangDienThoai\CuaHangDienThoai\bin\Debug\net8.0\runtimes\
 D:\Csharp\Csharp_LT\CuaHangDienThoai\CuaHangDienThoai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Csharp\Csharp_LT\CuaHangDienThoai\CuaHangDienThoai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Csharp\Csharp_LT\CuaHangDienThoai\CuaHangDienThoai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Csharp\Csharp_LT\CuaHangDienThoai\CuaHangDienThoai\obj\Debug\net8.0\CuaHangDienThoai.sourcelink.json
