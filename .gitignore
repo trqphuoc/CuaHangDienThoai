@@ -1,0 +1,1 @@
+bin/\nobj/\n.vscode/\n.vs/\n*.user\n*.suo\n*.log\n*.sqlite\n.env\nappsettings.Development.json
