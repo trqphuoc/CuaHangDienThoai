@@ -40,6 +40,10 @@ namespace CuaHangDienThoai.Controllers
             return View();
         }
 
-        
+        public IActionResult DangXuat()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("DangNhap");
+        }
     }
 }
