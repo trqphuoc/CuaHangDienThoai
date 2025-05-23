@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Csharp\Csharp_LT\CuaHangDienThoai\CuaHangDienThoai
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Csharp/Csharp_LT/CuaHangDienThoai/CuaHangDienThoai/Views/DonHang/Mua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ1xNdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Csharp/Csharp_LT/CuaHangDienThoai/CuaHangDienThoai/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

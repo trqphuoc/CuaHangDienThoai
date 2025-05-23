@@ -31,6 +31,8 @@ namespace CuaHangDienThoai.Controllers
             {
                 HttpContext.Session.SetInt32("IdNguoiDung", user.Id_NguoiDung);
                 HttpContext.Session.SetString("TenNguoiDung", user.Ho_Ten);
+                // Thêm dòng này để lưu tên đăng nhập
+                HttpContext.Session.SetString("TenDangNhap", user.Ten_Dang_Nhap);
                 return RedirectToAction("Index", "SanPham");
             }
 
